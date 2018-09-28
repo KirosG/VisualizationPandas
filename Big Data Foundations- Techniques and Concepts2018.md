@@ -10,23 +10,13 @@ Lynda.com is a PMI Registered Education Provider. This course qualifies for prof
 ![](http://files.lynda.com/files/course_description_images/REP_color.jpg)  
 The PMI Registered Education Provider logo is a registered mark of the Project Management Institute, Inc.
 
-#### Instructor
 
-[
-
-![Barton Poulson](https://cdn.lynda.com/authors/984353_200x200_thumb.jpg)
-
-Barton Poulson
-
-Founder of datalab.cc & data charrette
-
-](https://www.linkedin.com/learning/instructors/barton-poulson)
 
 # Introduction
 
 ### Welcome
 
-Hi I'm Bart Poulson and I'd like to welcome you toTechniques and Concepts of Big Data.Big Data refers to data that because of its size,speed or format, that is, its volume, velocity or variety,cannot be easily stored, manipulated or analyzedwith traditional methods like spreadsheets,relational databases or common statistical software.We'll take a look at a practical definition of Big Data,how it relates to fields like data science,statistics and programming and the variety ofpeople and skills involved with Big Data.We'll also discuss how Big Data has been used in fieldssuch as marketing and scientific research, how Big Datainfluences customer services like recommendation enginesand the ethical issues raised by Big Data.
+Techniques and Concepts of Big Data.Big Data refers to data that because of its size,speed or format, that is, its volume, velocity or variety,cannot be easily stored, manipulated or analyzedwith traditional methods like spreadsheets,relational databases or common statistical software.We'll take a look at a practical definition of Big Data,how it relates to fields like data science,statistics and programming and the variety ofpeople and skills involved with Big Data.We'll also discuss how Big Data has been used in fieldssuch as marketing and scientific research, how Big Datainfluences customer services like recommendation enginesand the ethical issues raised by Big Data.
 
 Finally, we'll go over common methods for generatingor capturing Big Data, storing and manipulating Big Dataand analyzing and visualizing Big Data,including data mining and predictive analytics.The applications of Big Data have been extraordinaryand its possibilities are immense.This overview should help you get excitedabout what big data can do for you.And with that in mind,let's get started with Techniques and Concepts of Big Data.
 
